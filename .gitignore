@@ -1,0 +1,10 @@
+LTX-Video/
+.venv/
+__pycache__/
+*.pyc
+outputs/
+*.mp4
+*.avi
+*.gif
+.env
+wandb/
