@@ -1,0 +1,15 @@
+[2026-03-10 15:13:37] INFO     ============================================================
+[2026-03-10 15:13:37] INFO     LTX-Video Long Video Generator
+[2026-03-10 15:13:37] INFO     ============================================================
+[2026-03-10 15:13:37] INFO       Prompt:         A garden scene
+[2026-03-10 15:13:37] INFO       Duration:       5.0 s (120 frames @ 24 fps)
+[2026-03-10 15:13:37] INFO       Resolution:     704 x 480
+[2026-03-10 15:13:37] INFO       Frames/chunk:   65 (64 new + 1 overlap)
+[2026-03-10 15:13:37] INFO       Total chunks:   2
+[2026-03-10 15:13:37] INFO       Actual frames:  129 (5.4 s)
+[2026-03-10 15:13:37] INFO       Output:         /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/test.mp4
+[2026-03-10 15:13:37] INFO       Model:          Lightricks/LTX-Video-0.9.1
+[2026-03-10 15:13:37] INFO       Steps/chunk:    30
+[2026-03-10 15:13:37] INFO       Guidance:       7.5
+[2026-03-10 15:13:37] INFO       Seed:           42
+[2026-03-10 15:13:37] WARNING  CUDA not available — generation will be very slow on CPU

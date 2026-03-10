@@ -1,0 +1,267 @@
+[2026-03-10 21:31:03] INFO     ============================================================
+[2026-03-10 21:31:03] INFO     LTX-Video Long Video Generator
+[2026-03-10 21:31:03] INFO     ============================================================
+[2026-03-10 21:31:03] INFO       Prompt:         A woman with long brown hair walks through a sunlit garden, flowers blooming around her, golden hour lighting, cinematic
+[2026-03-10 21:31:03] INFO       Duration:       300.0 s (7200 frames @ 24 fps)
+[2026-03-10 21:31:03] INFO       Resolution:     704 x 480
+[2026-03-10 21:31:03] INFO       Frames/chunk:   65 (64 new + 1 overlap)
+[2026-03-10 21:31:03] INFO       Total chunks:   113
+[2026-03-10 21:31:03] INFO       Actual frames:  7233 (301.4 s)
+[2026-03-10 21:31:03] INFO       Output:         /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.mp4
+[2026-03-10 21:31:03] INFO       Model:          Lightricks/LTX-Video-0.9.1
+[2026-03-10 21:31:03] INFO       Steps/chunk:    30
+[2026-03-10 21:31:03] INFO       Guidance:       7.5
+[2026-03-10 21:31:03] INFO       Seed:           42
+[2026-03-10 21:31:03] INFO     GPU 0: NVIDIA L40S — 47.7 GB VRAM
+[2026-03-10 21:33:10] INFO     Loading text-to-video pipeline from Lightricks/LTX-Video-0.9.1 ...
+[2026-03-10 21:36:52] DEBUG    VRAM [after t2v load] allocated=17.29 GB  reserved=17.69 GB
+[2026-03-10 21:36:52] INFO     Loading image-to-video pipeline from Lightricks/LTX-Video-0.9.1 ...
+[2026-03-10 21:36:54] DEBUG    VRAM [after i2v load] allocated=34.58 GB  reserved=35.36 GB
+[2026-03-10 21:36:54] INFO     Pipelines loaded in 351.3 s
+[2026-03-10 21:36:54] INFO     Generating first chunk (text-to-video, 65 frames) ...
+[2026-03-10 21:37:15] DEBUG    VRAM [chunk 0] allocated=34.59 GB  reserved=39.84 GB
+[2026-03-10 21:37:15] INFO       Chunk 1/113 done — 65 frames in 20.2 s (total: 65 frames)
+[2026-03-10 21:37:22] DEBUG    VRAM [chunk 1] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:37:22] INFO       Chunk 2/113 done — 64 frames in 7.6 s (total: 129 frames)
+[2026-03-10 21:37:29] DEBUG    VRAM [chunk 2] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:37:29] INFO       Chunk 3/113 done — 64 frames in 7.1 s (total: 193 frames)
+[2026-03-10 21:37:36] DEBUG    VRAM [chunk 3] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:37:36] INFO       Chunk 4/113 done — 64 frames in 7.2 s (total: 257 frames)
+[2026-03-10 21:37:44] DEBUG    VRAM [chunk 4] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:37:44] INFO       Chunk 5/113 done — 64 frames in 7.2 s (total: 321 frames)
+[2026-03-10 21:37:51] DEBUG    VRAM [chunk 5] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:37:51] INFO       Chunk 6/113 done — 64 frames in 7.2 s (total: 385 frames)
+[2026-03-10 21:37:58] DEBUG    VRAM [chunk 6] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:37:58] INFO       Chunk 7/113 done — 64 frames in 7.2 s (total: 449 frames)
+[2026-03-10 21:38:05] DEBUG    VRAM [chunk 7] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:05] INFO       Chunk 8/113 done — 64 frames in 7.2 s (total: 513 frames)
+[2026-03-10 21:38:13] DEBUG    VRAM [chunk 8] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:13] INFO       Chunk 9/113 done — 64 frames in 7.3 s (total: 577 frames)
+[2026-03-10 21:38:20] DEBUG    VRAM [chunk 9] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:20] INFO       Chunk 10/113 done — 64 frames in 7.3 s (total: 641 frames)
+[2026-03-10 21:38:27] DEBUG    VRAM [chunk 10] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:27] INFO       Chunk 11/113 done — 64 frames in 7.3 s (total: 705 frames)
+[2026-03-10 21:38:34] DEBUG    VRAM [chunk 11] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:34] INFO       Chunk 12/113 done — 64 frames in 7.2 s (total: 769 frames)
+[2026-03-10 21:38:42] DEBUG    VRAM [chunk 12] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:42] INFO       Chunk 13/113 done — 64 frames in 7.3 s (total: 833 frames)
+[2026-03-10 21:38:49] DEBUG    VRAM [chunk 13] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:49] INFO       Chunk 14/113 done — 64 frames in 7.3 s (total: 897 frames)
+[2026-03-10 21:38:56] DEBUG    VRAM [chunk 14] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:38:56] INFO       Chunk 15/113 done — 64 frames in 7.3 s (total: 961 frames)
+[2026-03-10 21:39:03] DEBUG    VRAM [chunk 15] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:03] INFO       Chunk 16/113 done — 64 frames in 7.3 s (total: 1025 frames)
+[2026-03-10 21:39:11] DEBUG    VRAM [chunk 16] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:11] INFO       Chunk 17/113 done — 64 frames in 7.3 s (total: 1089 frames)
+[2026-03-10 21:39:18] DEBUG    VRAM [chunk 17] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:18] INFO       Chunk 18/113 done — 64 frames in 7.3 s (total: 1153 frames)
+[2026-03-10 21:39:25] DEBUG    VRAM [chunk 18] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:25] INFO       Chunk 19/113 done — 64 frames in 7.3 s (total: 1217 frames)
+[2026-03-10 21:39:33] DEBUG    VRAM [chunk 19] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:33] INFO       Chunk 20/113 done — 64 frames in 7.3 s (total: 1281 frames)
+[2026-03-10 21:39:40] DEBUG    VRAM [chunk 20] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:40] INFO       Chunk 21/113 done — 64 frames in 7.3 s (total: 1345 frames)
+[2026-03-10 21:39:47] DEBUG    VRAM [chunk 21] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:47] INFO       Chunk 22/113 done — 64 frames in 7.3 s (total: 1409 frames)
+[2026-03-10 21:39:55] DEBUG    VRAM [chunk 22] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:39:55] INFO       Chunk 23/113 done — 64 frames in 7.3 s (total: 1473 frames)
+[2026-03-10 21:40:02] DEBUG    VRAM [chunk 23] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:02] INFO       Chunk 24/113 done — 64 frames in 7.3 s (total: 1537 frames)
+[2026-03-10 21:40:09] DEBUG    VRAM [chunk 24] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:09] INFO       Chunk 25/113 done — 64 frames in 7.3 s (total: 1601 frames)
+[2026-03-10 21:40:16] DEBUG    VRAM [chunk 25] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:16] INFO       Chunk 26/113 done — 64 frames in 7.3 s (total: 1665 frames)
+[2026-03-10 21:40:24] DEBUG    VRAM [chunk 26] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:24] INFO       Chunk 27/113 done — 64 frames in 7.3 s (total: 1729 frames)
+[2026-03-10 21:40:31] DEBUG    VRAM [chunk 27] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:31] INFO       Chunk 28/113 done — 64 frames in 7.3 s (total: 1793 frames)
+[2026-03-10 21:40:38] DEBUG    VRAM [chunk 28] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:38] INFO       Chunk 29/113 done — 64 frames in 7.3 s (total: 1857 frames)
+[2026-03-10 21:40:46] DEBUG    VRAM [chunk 29] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:46] INFO       Chunk 30/113 done — 64 frames in 7.3 s (total: 1921 frames)
+[2026-03-10 21:40:53] DEBUG    VRAM [chunk 30] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:40:53] INFO       Chunk 31/113 done — 64 frames in 7.3 s (total: 1985 frames)
+[2026-03-10 21:41:00] DEBUG    VRAM [chunk 31] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:00] INFO       Chunk 32/113 done — 64 frames in 7.3 s (total: 2049 frames)
+[2026-03-10 21:41:08] DEBUG    VRAM [chunk 32] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:08] INFO       Chunk 33/113 done — 64 frames in 7.3 s (total: 2113 frames)
+[2026-03-10 21:41:15] DEBUG    VRAM [chunk 33] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:15] INFO       Chunk 34/113 done — 64 frames in 7.3 s (total: 2177 frames)
+[2026-03-10 21:41:22] DEBUG    VRAM [chunk 34] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:22] INFO       Chunk 35/113 done — 64 frames in 7.3 s (total: 2241 frames)
+[2026-03-10 21:41:30] DEBUG    VRAM [chunk 35] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:30] INFO       Chunk 36/113 done — 64 frames in 7.3 s (total: 2305 frames)
+[2026-03-10 21:41:37] DEBUG    VRAM [chunk 36] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:37] INFO       Chunk 37/113 done — 64 frames in 7.3 s (total: 2369 frames)
+[2026-03-10 21:41:44] DEBUG    VRAM [chunk 37] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:44] INFO       Chunk 38/113 done — 64 frames in 7.3 s (total: 2433 frames)
+[2026-03-10 21:41:52] DEBUG    VRAM [chunk 38] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:52] INFO       Chunk 39/113 done — 64 frames in 7.3 s (total: 2497 frames)
+[2026-03-10 21:41:59] DEBUG    VRAM [chunk 39] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:41:59] INFO       Chunk 40/113 done — 64 frames in 7.3 s (total: 2561 frames)
+[2026-03-10 21:42:06] DEBUG    VRAM [chunk 40] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:06] INFO       Chunk 41/113 done — 64 frames in 7.3 s (total: 2625 frames)
+[2026-03-10 21:42:14] DEBUG    VRAM [chunk 41] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:14] INFO       Chunk 42/113 done — 64 frames in 7.3 s (total: 2689 frames)
+[2026-03-10 21:42:21] DEBUG    VRAM [chunk 42] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:21] INFO       Chunk 43/113 done — 64 frames in 7.3 s (total: 2753 frames)
+[2026-03-10 21:42:28] DEBUG    VRAM [chunk 43] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:28] INFO       Chunk 44/113 done — 64 frames in 7.3 s (total: 2817 frames)
+[2026-03-10 21:42:36] DEBUG    VRAM [chunk 44] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:36] INFO       Chunk 45/113 done — 64 frames in 7.3 s (total: 2881 frames)
+[2026-03-10 21:42:43] DEBUG    VRAM [chunk 45] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:43] INFO       Chunk 46/113 done — 64 frames in 7.3 s (total: 2945 frames)
+[2026-03-10 21:42:50] DEBUG    VRAM [chunk 46] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:50] INFO       Chunk 47/113 done — 64 frames in 7.3 s (total: 3009 frames)
+[2026-03-10 21:42:58] DEBUG    VRAM [chunk 47] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:42:58] INFO       Chunk 48/113 done — 64 frames in 7.3 s (total: 3073 frames)
+[2026-03-10 21:43:05] DEBUG    VRAM [chunk 48] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:05] INFO       Chunk 49/113 done — 64 frames in 7.3 s (total: 3137 frames)
+[2026-03-10 21:43:12] DEBUG    VRAM [chunk 49] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:12] INFO       Chunk 50/113 done — 64 frames in 7.3 s (total: 3201 frames)
+[2026-03-10 21:43:19] DEBUG    VRAM [chunk 50] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:19] INFO       Chunk 51/113 done — 64 frames in 7.3 s (total: 3265 frames)
+[2026-03-10 21:43:27] DEBUG    VRAM [chunk 51] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:27] INFO       Chunk 52/113 done — 64 frames in 7.3 s (total: 3329 frames)
+[2026-03-10 21:43:34] DEBUG    VRAM [chunk 52] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:34] INFO       Chunk 53/113 done — 64 frames in 7.3 s (total: 3393 frames)
+[2026-03-10 21:43:41] DEBUG    VRAM [chunk 53] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:41] INFO       Chunk 54/113 done — 64 frames in 7.3 s (total: 3457 frames)
+[2026-03-10 21:43:49] DEBUG    VRAM [chunk 54] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:49] INFO       Chunk 55/113 done — 64 frames in 7.3 s (total: 3521 frames)
+[2026-03-10 21:43:56] DEBUG    VRAM [chunk 55] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:43:56] INFO       Chunk 56/113 done — 64 frames in 7.3 s (total: 3585 frames)
+[2026-03-10 21:44:03] DEBUG    VRAM [chunk 56] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:03] INFO       Chunk 57/113 done — 64 frames in 7.3 s (total: 3649 frames)
+[2026-03-10 21:44:11] DEBUG    VRAM [chunk 57] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:11] INFO       Chunk 58/113 done — 64 frames in 7.3 s (total: 3713 frames)
+[2026-03-10 21:44:18] DEBUG    VRAM [chunk 58] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:18] INFO       Chunk 59/113 done — 64 frames in 7.3 s (total: 3777 frames)
+[2026-03-10 21:44:25] DEBUG    VRAM [chunk 59] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:25] INFO       Chunk 60/113 done — 64 frames in 7.3 s (total: 3841 frames)
+[2026-03-10 21:44:33] DEBUG    VRAM [chunk 60] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:33] INFO       Chunk 61/113 done — 64 frames in 7.3 s (total: 3905 frames)
+[2026-03-10 21:44:40] DEBUG    VRAM [chunk 61] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:40] INFO       Chunk 62/113 done — 64 frames in 7.3 s (total: 3969 frames)
+[2026-03-10 21:44:47] DEBUG    VRAM [chunk 62] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:47] INFO       Chunk 63/113 done — 64 frames in 7.3 s (total: 4033 frames)
+[2026-03-10 21:44:54] DEBUG    VRAM [chunk 63] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:44:54] INFO       Chunk 64/113 done — 64 frames in 7.3 s (total: 4097 frames)
+[2026-03-10 21:45:02] DEBUG    VRAM [chunk 64] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:02] INFO       Chunk 65/113 done — 64 frames in 7.3 s (total: 4161 frames)
+[2026-03-10 21:45:09] DEBUG    VRAM [chunk 65] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:09] INFO       Chunk 66/113 done — 64 frames in 7.3 s (total: 4225 frames)
+[2026-03-10 21:45:16] DEBUG    VRAM [chunk 66] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:16] INFO       Chunk 67/113 done — 64 frames in 7.3 s (total: 4289 frames)
+[2026-03-10 21:45:24] DEBUG    VRAM [chunk 67] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:24] INFO       Chunk 68/113 done — 64 frames in 7.3 s (total: 4353 frames)
+[2026-03-10 21:45:31] DEBUG    VRAM [chunk 68] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:31] INFO       Chunk 69/113 done — 64 frames in 7.3 s (total: 4417 frames)
+[2026-03-10 21:45:38] DEBUG    VRAM [chunk 69] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:38] INFO       Chunk 70/113 done — 64 frames in 7.3 s (total: 4481 frames)
+[2026-03-10 21:45:46] DEBUG    VRAM [chunk 70] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:46] INFO       Chunk 71/113 done — 64 frames in 7.3 s (total: 4545 frames)
+[2026-03-10 21:45:53] DEBUG    VRAM [chunk 71] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:45:53] INFO       Chunk 72/113 done — 64 frames in 7.3 s (total: 4609 frames)
+[2026-03-10 21:46:00] DEBUG    VRAM [chunk 72] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:00] INFO       Chunk 73/113 done — 64 frames in 7.3 s (total: 4673 frames)
+[2026-03-10 21:46:08] DEBUG    VRAM [chunk 73] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:08] INFO       Chunk 74/113 done — 64 frames in 7.3 s (total: 4737 frames)
+[2026-03-10 21:46:15] DEBUG    VRAM [chunk 74] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:15] INFO       Chunk 75/113 done — 64 frames in 7.4 s (total: 4801 frames)
+[2026-03-10 21:46:22] DEBUG    VRAM [chunk 75] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:22] INFO       Chunk 76/113 done — 64 frames in 7.4 s (total: 4865 frames)
+[2026-03-10 21:46:30] DEBUG    VRAM [chunk 76] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:30] INFO       Chunk 77/113 done — 64 frames in 7.3 s (total: 4929 frames)
+[2026-03-10 21:46:37] DEBUG    VRAM [chunk 77] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:37] INFO       Chunk 78/113 done — 64 frames in 7.3 s (total: 4993 frames)
+[2026-03-10 21:46:44] DEBUG    VRAM [chunk 78] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:44] INFO       Chunk 79/113 done — 64 frames in 7.3 s (total: 5057 frames)
+[2026-03-10 21:46:52] DEBUG    VRAM [chunk 79] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:52] INFO       Chunk 80/113 done — 64 frames in 7.4 s (total: 5121 frames)
+[2026-03-10 21:46:59] DEBUG    VRAM [chunk 80] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:46:59] INFO       Chunk 81/113 done — 64 frames in 7.4 s (total: 5185 frames)
+[2026-03-10 21:47:06] DEBUG    VRAM [chunk 81] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:06] INFO       Chunk 82/113 done — 64 frames in 7.4 s (total: 5249 frames)
+[2026-03-10 21:47:14] DEBUG    VRAM [chunk 82] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:14] INFO       Chunk 83/113 done — 64 frames in 7.4 s (total: 5313 frames)
+[2026-03-10 21:47:21] DEBUG    VRAM [chunk 83] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:21] INFO       Chunk 84/113 done — 64 frames in 7.4 s (total: 5377 frames)
+[2026-03-10 21:47:28] DEBUG    VRAM [chunk 84] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:28] INFO       Chunk 85/113 done — 64 frames in 7.4 s (total: 5441 frames)
+[2026-03-10 21:47:36] DEBUG    VRAM [chunk 85] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:36] INFO       Chunk 86/113 done — 64 frames in 7.4 s (total: 5505 frames)
+[2026-03-10 21:47:43] DEBUG    VRAM [chunk 86] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:43] INFO       Chunk 87/113 done — 64 frames in 7.4 s (total: 5569 frames)
+[2026-03-10 21:47:51] DEBUG    VRAM [chunk 87] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:51] INFO       Chunk 88/113 done — 64 frames in 7.4 s (total: 5633 frames)
+[2026-03-10 21:47:58] DEBUG    VRAM [chunk 88] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:47:58] INFO       Chunk 89/113 done — 64 frames in 7.3 s (total: 5697 frames)
+[2026-03-10 21:48:05] DEBUG    VRAM [chunk 89] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:05] INFO       Chunk 90/113 done — 64 frames in 7.4 s (total: 5761 frames)
+[2026-03-10 21:48:13] DEBUG    VRAM [chunk 90] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:13] INFO       Chunk 91/113 done — 64 frames in 7.4 s (total: 5825 frames)
+[2026-03-10 21:48:20] DEBUG    VRAM [chunk 91] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:20] INFO       Chunk 92/113 done — 64 frames in 7.4 s (total: 5889 frames)
+[2026-03-10 21:48:27] DEBUG    VRAM [chunk 92] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:27] INFO       Chunk 93/113 done — 64 frames in 7.4 s (total: 5953 frames)
+[2026-03-10 21:48:35] DEBUG    VRAM [chunk 93] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:35] INFO       Chunk 94/113 done — 64 frames in 7.3 s (total: 6017 frames)
+[2026-03-10 21:48:42] DEBUG    VRAM [chunk 94] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:42] INFO       Chunk 95/113 done — 64 frames in 7.3 s (total: 6081 frames)
+[2026-03-10 21:48:49] DEBUG    VRAM [chunk 95] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:49] INFO       Chunk 96/113 done — 64 frames in 7.3 s (total: 6145 frames)
+[2026-03-10 21:48:57] DEBUG    VRAM [chunk 96] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:48:57] INFO       Chunk 97/113 done — 64 frames in 7.3 s (total: 6209 frames)
+[2026-03-10 21:49:04] DEBUG    VRAM [chunk 97] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:04] INFO       Chunk 98/113 done — 64 frames in 7.4 s (total: 6273 frames)
+[2026-03-10 21:49:11] DEBUG    VRAM [chunk 98] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:11] INFO       Chunk 99/113 done — 64 frames in 7.4 s (total: 6337 frames)
+[2026-03-10 21:49:19] DEBUG    VRAM [chunk 99] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:19] INFO       Chunk 100/113 done — 64 frames in 7.3 s (total: 6401 frames)
+[2026-03-10 21:49:26] DEBUG    VRAM [chunk 100] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:26] INFO       Chunk 101/113 done — 64 frames in 7.4 s (total: 6465 frames)
+[2026-03-10 21:49:33] DEBUG    VRAM [chunk 101] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:33] INFO       Chunk 102/113 done — 64 frames in 7.3 s (total: 6529 frames)
+[2026-03-10 21:49:41] DEBUG    VRAM [chunk 102] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:41] INFO       Chunk 103/113 done — 64 frames in 7.4 s (total: 6593 frames)
+[2026-03-10 21:49:48] DEBUG    VRAM [chunk 103] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:48] INFO       Chunk 104/113 done — 64 frames in 7.3 s (total: 6657 frames)
+[2026-03-10 21:49:56] DEBUG    VRAM [chunk 104] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:49:56] INFO       Chunk 105/113 done — 64 frames in 7.3 s (total: 6721 frames)
+[2026-03-10 21:50:03] DEBUG    VRAM [chunk 105] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:03] INFO       Chunk 106/113 done — 64 frames in 7.4 s (total: 6785 frames)
+[2026-03-10 21:50:10] DEBUG    VRAM [chunk 106] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:10] INFO       Chunk 107/113 done — 64 frames in 7.4 s (total: 6849 frames)
+[2026-03-10 21:50:18] DEBUG    VRAM [chunk 107] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:18] INFO       Chunk 108/113 done — 64 frames in 7.3 s (total: 6913 frames)
+[2026-03-10 21:50:25] DEBUG    VRAM [chunk 108] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:25] INFO       Chunk 109/113 done — 64 frames in 7.4 s (total: 6977 frames)
+[2026-03-10 21:50:32] DEBUG    VRAM [chunk 109] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:32] INFO       Chunk 110/113 done — 64 frames in 7.4 s (total: 7041 frames)
+[2026-03-10 21:50:40] DEBUG    VRAM [chunk 110] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:40] INFO       Chunk 111/113 done — 64 frames in 7.4 s (total: 7105 frames)
+[2026-03-10 21:50:47] DEBUG    VRAM [chunk 111] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:47] INFO       Chunk 112/113 done — 64 frames in 7.4 s (total: 7169 frames)
+[2026-03-10 21:50:54] DEBUG    VRAM [chunk 112] allocated=34.59 GB  reserved=39.85 GB
+[2026-03-10 21:50:54] INFO       Chunk 113/113 done — 64 frames in 7.3 s (total: 7233 frames)
+[2026-03-10 21:50:54] INFO     Generation complete: 7200 frames in 840.0 s
+[2026-03-10 21:50:55] INFO     Exporting 7200 frames to /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.mp4 at 24 fps ...
+[2026-03-10 21:51:36] INFO       Output: /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.mp4 (96.9 MB)
+[2026-03-10 21:51:37] INFO     Computing CLIP metrics (sampling every 100 frames) ...
+[2026-03-10 21:51:59] INFO       CLIP score: 0.2708 ± 0.0343
+[2026-03-10 21:51:59] INFO       Frame consistency: 0.8606 ± 0.0457
+[2026-03-10 21:51:59] INFO     
+[2026-03-10 21:51:59] INFO     ============================================================
+[2026-03-10 21:51:59] INFO     SUMMARY
+[2026-03-10 21:51:59] INFO     ============================================================
+[2026-03-10 21:51:59] INFO       Total frames:   7200
+[2026-03-10 21:51:59] INFO       Duration:       300.0 s
+[2026-03-10 21:51:59] INFO       Chunks:         113
+[2026-03-10 21:51:59] INFO       Avg chunk time: 7.4 s
+[2026-03-10 21:51:59] INFO       Total time:     1256.1 s (20.9 min)
+[2026-03-10 21:51:59] INFO       Output video:   /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.mp4
+[2026-03-10 21:51:59] INFO       Output JSON:    /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.json
+[2026-03-10 21:51:59] INFO       Output log:     /sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.log
+[2026-03-10 21:51:59] INFO       CLIP score:     0.2708
+[2026-03-10 21:51:59] INFO     ============================================================

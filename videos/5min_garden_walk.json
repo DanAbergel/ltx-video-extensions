@@ -1,0 +1,29 @@
+{
+  "prompt": "A woman with long brown hair walks through a sunlit garden, flowers blooming around her, golden hour lighting, cinematic",
+  "duration_seconds": 300.0,
+  "total_frames": 7200,
+  "resolution": "704x480",
+  "fps": 24,
+  "num_chunks": 113,
+  "frames_per_chunk": 65,
+  "model_id": "Lightricks/LTX-Video-0.9.1",
+  "num_inference_steps": 30,
+  "guidance_scale": 7.5,
+  "seed": 42,
+  "timings": {
+    "pipeline_load_s": 351.3,
+    "generation_s": 840.0,
+    "export_s": 41.9,
+    "total_s": 1256.1,
+    "avg_chunk_s": 7.4
+  },
+  "output_file": "/sci/labs/arieljaffe/dan.abergel1/repos/ltx-video-extensions/videos/5min_garden_walk.mp4",
+  "output_size_mb": 97.8,
+  "metrics": {
+    "clip_score_mean": 0.2707597393956449,
+    "clip_score_std": 0.03434038027934772,
+    "frame_consistency_mean": 0.8606454075222284,
+    "frame_consistency_std": 0.04565919076429898,
+    "num_sampled_frames": 72
+  }
+}
