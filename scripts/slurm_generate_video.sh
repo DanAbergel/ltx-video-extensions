@@ -35,7 +35,7 @@ set -euo pipefail
 # ── Paths (adapt to your cluster) ──────────────────────────────────
 LAB_DIR="/sci/labs/arieljaffe/dan.abergel1"
 PROJECT_DIR="$LAB_DIR/repos/ltx-video-extensions"
-VENV_DIR="$LAB_DIR/ltx_env"
+VENV_DIR="$LAB_DIR/torch_env"
 
 # ── Redirect caches to lab storage ─────────────────────────────────
 # Home directory on Moriah has ~5 GB quota. HuggingFace models are
