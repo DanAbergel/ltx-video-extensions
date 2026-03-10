@@ -6,5 +6,11 @@ outputs/
 *.mp4
 *.avi
 *.gif
+
+# But keep videos/ directory (generated outputs for portfolio)
+!videos/
+!videos/*.mp4
+!videos/*.json
+!videos/*.log
 .env
 wandb/
