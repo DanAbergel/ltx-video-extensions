@@ -54,6 +54,7 @@ def setup_logging(log_file: str | None = None) -> logging.Logger:
     logger.addHandler(console)
 
     if log_file:
+        os.makedirs(os.path.dirname(log_file) or ".", exist_ok=True)
         fh = logging.FileHandler(log_file, mode="w")
         fh.setLevel(logging.DEBUG)
         fh.setFormatter(fmt)
